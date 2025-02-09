@@ -1,0 +1,21 @@
+.container {
+  width: 95vh;
+  margin: 0 auto;
+  padding: 24px 40px 0px 40px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}
+
+.formItem {
+  margin-bottom: 16px;
+}
+
+.slider {
+  width: 100%;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10vh;
+}
